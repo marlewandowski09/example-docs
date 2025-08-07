@@ -11,7 +11,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'NextPR Documentation',
-  tagline: 'NextPR is a fictional workout tracking app designed for powerlifters who want to log their lifts, analyze performance, and chase their next personal record.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -47,25 +46,28 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
+        
+        blog: false,
+        //blog: {
+          //showReadingTime: true,
+          //feedOptions: {
+            //type: ['rss', 'atom'],
+            //xslt: true,
+          //},
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+          //onInlineTags: 'warn',
+          //onInlineAuthors: 'warn',
+          //onUntruncatedBlogPosts: 'warn',
+        //},
         theme: {
           customCss: './src/css/custom.css',
         },
