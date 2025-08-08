@@ -16,4 +16,4 @@ StreamData is a fictional SaaS tool designed to fetch and visualize data from va
 - **Web analytics**: Monitor webpage traffic and conversions.
 - **Finance**: Analyze your budget, expenses, and forecasts.
 - **Custom scenarios**: Use StreamData in any situation that requires graphical representation of raw data.
-![StreamData](/static/img1.svg)
+![StreamData](/img1.svg)
