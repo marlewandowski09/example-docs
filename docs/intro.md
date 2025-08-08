@@ -2,6 +2,8 @@
 sidebar_position: 1
 slug: /
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Introduction and Overview
 ## What is StreamData?
