@@ -12,8 +12,19 @@ StreamData is a fictional SaaS tool designed to fetch and visualize data from va
 - Share dashboards with your colleagues or clients securely.
 - Push and pull data using built-in StreamData API.
 ## StreamData use cases
-- **Sales and marketing**: Track KPIs, sales numbers, and revenue.
-- **Web analytics**: Monitor webpage traffic and conversions.
-- **Finance**: Analyze your budget, expenses, and forecasts.
-- **Custom scenarios**: Use StreamData in any situation that requires graphical representation of raw data.
+<Tabs>
+  <TabItem value="sales_marketing" label="Sales and marketing" default>
+    Track KPIs, sales numbers, and revenue.
+  </TabItem>
+  <TabItem value="web_analytics" label="Web analytics">
+    Monitor webpage traffic and conversions.
+  </TabItem>
+  <TabItem value="finance" label="Finance">
+    Analyze your budget, expenses, and forecasts.
+  </TabItem>
+  <TabItem value="custom" label="Custom scenarios">
+    Use StreamData in any situation that requires graphical representation of raw data.
+  </TabItem>
+</Tabs>
+
 ![StreamData](/img1.svg)
