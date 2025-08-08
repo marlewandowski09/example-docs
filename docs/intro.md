@@ -5,7 +5,7 @@ slug: /
 
 # Introduction and Overview
 ## What is StreamData?
-StreamData is a fictional SaaS tool designed to fetch data from various sources including [APIs](/docs/data-sources/api.md), [CSV files](/docs/data-sources/csv.md), [JSON files](/docs/data-sources/api.md), and [databases](/docs/data-sources/data_base.md).
+StreamData is a fictional SaaS tool designed to fetch and visualize data from various sources including [APIs](/docs/data-sources/api.md), [CSV files](/docs/data-sources/csv.md), [JSON files](/docs/data-sources/api.md), and [databases](/docs/data-sources/data_base.md).
 ## StreamData features
 - Connect to REST APIs, upload CSV and JSON files, or link your dashboard to a database to collect data.
 - Monitor your data using clear and elegant form-factors ranging from simple tables to advanced charts.
