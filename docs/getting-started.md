@@ -35,10 +35,10 @@ Use only letters and numbers.
 ![StreamData home page](/create_dashboard.png)
 
 4. Choose your data source.
-5. click **Continue**
+5. Click **Continue**.
 
 For detailed configuration instructions, see:  
    - [Configuring API Source](/docs/data-sources/api.md)  
    - [Configuring CSV File Source](/docs/data-sources/csv.md)  
    - [Configuring JSON File Source](/docs/data-sources/json.md)  
-   - [Configuring Database Source](/docs/data-sources/database.md)
+   - [Configuring Database Source](/docs/data-sources/data_base.md)
