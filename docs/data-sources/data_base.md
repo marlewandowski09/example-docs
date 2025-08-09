@@ -2,4 +2,4 @@
 sidebar_position: 4
 ---
 
-# Database Source
+# Configuring Database Source
