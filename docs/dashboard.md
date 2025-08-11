@@ -44,7 +44,7 @@ You can manage the visualizations in the following ways:
 - To view a visualization, click its tile to open it in a new window.
 - To change the visualization type, click **Change**. 
 - To remove a visualization, click **Remove**.
-- To add a new visualization type, click the **plus** sign on an empty tile.
+- To add a new visualization type, click the **Plus** sign on an empty tile.
 
 ---
 
