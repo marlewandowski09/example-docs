@@ -64,6 +64,8 @@ At this point, you can **Change** or **Modify** the visualizations. Note that th
 
 6. Customize the sharing options.
 
+![Visualization sharing options](/vis_share.png)
+
 The sharing options are described in the table below:
 
 | Option                 | Description |
@@ -72,6 +74,8 @@ The sharing options are described in the table below:
 | Embed code             | **Generate** HTML code that can be used to embed the visualizations on your website . |
 | Link                   | **Generate** a shareable link to the visualizations. |
 | Email                  | Enter one or more email addresses (seperated by semicolons `;` without spaces) to send the link. |
+
+1. Click **Done**.
 
 :::note
 
