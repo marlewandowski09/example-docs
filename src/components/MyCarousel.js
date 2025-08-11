@@ -16,29 +16,29 @@ export default function MyCarousel() {
   return (
     <div style={{ width: '500px', margin: '0 auto' }}>
     <Slider {...settings}>
-      <div class="tile">
+      <div class="tile desc">
         <img src="/example-docs/graph-5.png" alt="Table" style={{ width: '500px'}}/>
-        <p>Table:  Presents data in rows and columns.</p>
+        <p class ="desc"><span class ="emp">Table</span>: Presents data in rows and columns.</p>
       </div>
       <div class="tile">
-        <img src="/example-docs/graph-2.png" alt="Image 2" style={{ width: '500px'}}/>
-        <p>Line chart: Displays information as connected data points, useful for showing trends over time  </p>
+        <img src="/example-docs/graph-6.png" alt="Line Chart" style={{ width: '500px'}}/>
+        <p class ="desc"><span class ="emp">Line chart</span>: Displays connected data points to show trends over time.</p>
       </div>
       <div class="tile">
-        <img src="/example-docs/graph-3.png" alt="Image 3" style={{ width: '500px'}}/>
-        <p>Bar chart: Shows numerical values by the height or length of rectangles</p>
+        <img src="/example-docs/graph-29.png" alt="Bar Chart" style={{ width: '500px'}}/>
+        <p class ="desc"><span class ="emp">Bar (column) chart</span>: Compares numerical values using the height of rectangles.</p>
       </div>
        <div class="tile">
-        <img src="/example-docs/graph-4.png" alt="Image 3" style={{ width: '500px'}}/>
-        <p>Stacked bar chart: Extends the standard bar chart by dividing bars into multiple segments, representing different subcategories</p>
+        <img src="/example-docs/graph-15.png" alt="Stacked Bar Chart" style={{ width: '500px'}}/>
+        <p class ="desc"><span class ="emp">Stacked bar chart</span>: Extends the standard bar chart by dividing bars into multiple segments to show subcategories.</p>
       </div>
        <div class="tile">
-        <img src="/example-docs/graph-4.png" alt="Image 3" style={{ width: '500px'}}/>
-        <p>Pie chart: Represents proportional values as slices of a circle, useful for percentage comparisons</p>
+        <img src="/example-docs/graph-18.png" alt="Pie Chart" style={{ width: '500px'}}/>
+        <p class ="desc"><span class ="emp">Pie chart</span>: Represents proportional values as slices of a circle for percentage comparisons.</p>
       </div>
       <div class="tile">
-        <img src="/example-docs/graph-4.png" alt="Image 3" style={{ width: '500px'}}/>
-        <p>Scatter plot: Plots values along two axes, useful for checking if any correlation is present</p>
+        <img src="/example-docs/graph-20.png" alt="Area chart" style={{ width: '500px'}}/>
+        <p class ="desc"><span class ="emp">Area chart</span>: Displays trends over time similarly to a line chart but with the area below the line and the x-axis colored for emphasis.</p>
       </div>
     </Slider>
     </div>

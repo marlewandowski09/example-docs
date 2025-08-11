@@ -12,11 +12,19 @@
 
 /* active dot color */
 .slick-dots li.slick-active button:before {
-  color: #ff6911ff !important;
+  color: #ff5e00ff !important;
 }
 
 .tile {
     display: flex;
     flex-direction: column;
-    text-align: center !important; 
+    text-align: justify !important; 
+}
+
+.emp {
+  font-weight: bold;
+}
+
+.desc {
+  font-size: 1.5rem;
 }
