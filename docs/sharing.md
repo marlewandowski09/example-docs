@@ -75,7 +75,7 @@ The sharing options are described in the table below:
 | Link                   | **Generate** a shareable link to the visualizations. |
 | Email                  | Enter one or more email addresses (seperated by semicolons `;` without spaces) to send the link. |
 
-1. Click **Done**.
+7. Click **Done**.
 
 :::note
 
