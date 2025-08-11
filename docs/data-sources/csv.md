@@ -13,7 +13,7 @@ The first row of your CSV file is automatically used as column headers.
 2. In the **Delimiter** field, provide the character used to seperate values in your CSV file.
 :::info
 
-Using `,` (comma) or `\t` (tab) is recommended.
+Using `,` (comma) or `\t` (tab) as the delimiter is recommended.
 
 :::
 3. Click **Upload**.

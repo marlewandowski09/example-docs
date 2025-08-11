@@ -15,7 +15,7 @@ To create a new account:
 
 ## Creating your first dashboard
 Once you’ve created your account and logged in, you’re ready to create your first dashboard.
-:::note
+:::info
 
 You can create up to **10 dashboards** per account.
 
@@ -26,7 +26,7 @@ You can create up to **10 dashboards** per account.
 ![StreamData home page](/empty_dash.png)
 
 3. Enter the name of your dashboard.
-:::note
+:::info
 
 Use only letters and numbers.
 
