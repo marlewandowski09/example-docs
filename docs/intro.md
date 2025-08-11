@@ -15,6 +15,7 @@ StreamData is a fictional SaaS tool designed to fetch and visualize data from mu
 - Connect to REST APIs, upload CSV and JSON files, or link your dashboard to a database to collect data.
 - Monitor your data using clear and elegant visualizations ranging from simple tables to advanced charts.
 - Share dashboards with your colleagues or clients securely.
+- Use StreamData REST API to manage your dashboards, enable integration with other applications, and automate tasks.
 
 ---
 
