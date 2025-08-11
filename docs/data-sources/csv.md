@@ -13,11 +13,11 @@ The first row of your CSV file is automatically used as column headers.
 2. In the **Delimiter** field, provide the character used to seperate values in your CSV file.
 :::info
 
-Using `,` (comma) or `\t` (tab) as the delimiter is recommended.
+The comma `,` and tab `\t` are the recommended delimiters .
 
 :::
-3. Click **Upload**.
-4. Verify the detected columns and data types.
-5. Click **Confirm** to finalize the import.
+1. Click **Upload**.
+2. Verify the detected columns and data types.
+3. Click **Confirm** to finalize the import.
 
 ![CSV data type window](/csv_data_type.png)
