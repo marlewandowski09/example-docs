@@ -4,6 +4,13 @@
   font-size: 24px; 
 }
 
+/* default dot color */
 .slick-dots li button:before {
-  color: #d86f32ff;
+  color: #d86f32ff !important;
+  opacity: 1; /* make it fully opaque */
+}
+
+/* active dot color */
+.slick-dots li.slick-active button:before {
+  color: #ff6911ff !important;
 }

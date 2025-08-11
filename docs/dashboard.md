@@ -29,7 +29,7 @@ The sidebar menu provides the following features:
 | Share    | Share full dashboard or a single visualization. For more information, see [Sharing Dashboards](/docs/sharing.md)                                                                                   |
 | Rename         | Change the name of the current dashboard.                          |
 | Delete         | Remove the current dashboard from the list                         |
-| StreamData API | Push and retrieve dashboard data using REST APU. For more information, see [StreamData REST API](/docs/rest_api.md)                                                                                   |
+| StreamData API | Push and retrieve dashboard data using REST API. For more information, see [StreamData REST API](/docs/rest_api.md)                                                                                   |
 
 ### Data view
 
@@ -46,4 +46,7 @@ To add a new visualization type, click on the **plus** sign on an empty tale.
 ---
 
 ## Visualization options
+
+You can explore the visualization options below:
+
 <MyCarousel />
