@@ -16,14 +16,21 @@ export default function MyCarousel() {
   return (
     <div style={{ width: '500px', margin: '0 auto' }}>
     <Slider {...settings}>
-      <div>
+      <div class="tile">
         <img src="/example-docs/graph-1.png" alt="Image 1" style={{ width: '500px', display: 'block' }}/>
+        <p>Graph 1</p>
       </div>
-      <div>
+      <div class="tile">
         <img src="/example-docs/graph-2.png" alt="Image 2" style={{ width: '500px', display: 'block' }}/>
+        <p>Graph 2</p>
       </div>
-      <div>
+      <div class="tile">
         <img src="/example-docs/graph-3.png" alt="Image 3" style={{ width: '500px', display: 'block' }}/>
+        <p>Graph 3</p>
+      </div>
+       <div class="tile">
+        <img src="/example-docs/graph-4.png" alt="Image 3" style={{ width: '500px', display: 'block' }}/>
+        <p>Graph 4</p>
       </div>
     </Slider>
     </div>

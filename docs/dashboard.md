@@ -5,14 +5,14 @@ title: StreamData Dashboard
 import MyCarousel from '@site/src/components/MyCarousel';
 
 # StreamData Dashboard
-The dashboard is the most import aspect of StreamData. It fetches data from all the provided sources and presents it in a for of charts, graphs, and tables, allowing you to easily monitor your data.
+The dashboard is the most important aspect of StreamData. It fetches data from all the provided sources and presents it in the form of charts, graphs, and tables, allowing you to easily monitor your data.
 
 ## Accessing dashboards
-To access a dashboard, select **Your Dashboards** from the navigation bar and choose it from the list.
+To access a dashboard, select **Your Dashboards** from the navigation bar, then choose the desired dashboard from the list.
 
 ![Dashboard list](/dashboard_list_full.png)
 
-To remove a dashboard, click ❌ **Remove**. 
+To remove a dashboard, click the ❌ **Remove** button. 
 
 ---
 
@@ -26,22 +26,22 @@ The sidebar menu provides the following features:
 | ---------------|------------------------------------------------------------------- |
 | Data sources   | Add, change, and remove the data sources of the current dashboard. |
 | Filter data    | Filter the data range by dates or keywords.                        |
-| Share    | Share full dashboard or a single visualization. For more information, see [Sharing Dashboards](/docs/sharing.md)                                                                                   |
+| Share    | Share full dashboard or a single visualization. For more information, see [Sharing Dashboards](/docs/sharing.md).                                                                                   |
 | Rename         | Change the name of the current dashboard.                          |
-| Delete         | Remove the current dashboard from the list                         |
-| StreamData API | Push and retrieve dashboard data using REST API. For more information, see [StreamData REST API](/docs/rest_api.md)                                                                                   |
+| Delete         | Remove the current dashboard from the list.                         |
+| StreamData API | Push and retrieve dashboard data using REST API. For more information, see [StreamData REST API](/docs/rest_api.md).                                                                                   |
 
 ### Data view
 
-What you see under you dashboard title is the actual data. The three upper tales profile key metrics and are fully customizable. To change the displayed metric, simply click **Customize metric**.
+What you see under your dashboard title is the actual data. The three upper tiles display key metrics and are fully customizable. To change the displayed metric, click **Customize metric**.
 
-Below the metrics, you can see data visualization. StreamData allows you to use three different visualization types at the same time. Each time you create a new dashboard, a table is provided by default.
+Below the metrics are your data visualizations. StreamData allows you to use three different visualization types at the same time. Each new dashboard includes a table visualization by default.
 
-To display the visualization, click on the tale, and a new window will open.
+To view a visualization, click its tile to open it in a new window.
 
-To swap the visualization for a different type, click **Change**. To remove it, click **Remove**.
+To change the visualization type, click **Change**. To remove it, click **Remove**.
 
-To add a new visualization type, click on the **plus** sign on an empty tale.
+To add a new visualization type, click the **plus** sign on an empty tile.
 
 ---
 

@@ -14,3 +14,9 @@
 .slick-dots li.slick-active button:before {
   color: #ff6911ff !important;
 }
+
+.tile {
+    display: flex;
+    flex-direction: column;
+    text-align: center !important; 
+}
