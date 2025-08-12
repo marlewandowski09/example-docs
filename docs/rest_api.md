@@ -63,7 +63,7 @@ Response:
 | `id`      | The ID of the dashboard | Integer   | – |
 | `name`    | The name of the dashboard | String  | – |
 | `owner`   | The owner of the dashboard | String | The owner's email address |
-| `created` | The creation date of the dashboard  | Integer | YYYYMMDD format |
+| `created` | The creation date of the dashboard  | String | YYYYMMDD format |
 
 
 ### Example: Share a dashboard
@@ -136,7 +136,7 @@ Response:
 | `dashboard_id` | The ID of the visualization's dashboard     | Integer   | – |
 | `dashboard_name` | The name of the visualization's dashboard | String    | – |
 | `owner` | The owner of the visualization                     | String    | The owner's email address |
-| `created` | The creation date of the visualization           | Integer   | YYYYMMDD format |
+| `created` | The creation date of the visualization           | String    | YYYYMMDD format |
 
 ### Example: Share a visualization
 

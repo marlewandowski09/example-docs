@@ -5,7 +5,7 @@ title: StreamData Dashboard
 import MyCarousel from '@site/src/components/MyCarousel';
 
 # StreamData Dashboard
-The dashboard is the most important aspect of StreamData. It fetches data from all the provided sources and presents it in the form of charts, graphs, and tables, allowing you to easily monitor your data.
+The StreamData dashboard is your central hub for data visualization and monitoring. It fetches data from all the provided sources and presents it in the form of charts, graphs, and tables.
 
 ## Accessing dashboards
 To access a dashboard, select **Your Dashboards** from the navigation bar, then choose the desired dashboard from the list.
@@ -13,6 +13,12 @@ To access a dashboard, select **Your Dashboards** from the navigation bar, then 
 ![Dashboard list](/dashboard_list_full.png)
 
 To remove a dashboard, click the ❌ **Remove** button. 
+
+:::warning
+
+Removing a dashboard is permanent and can't be undone.
+
+:::
 
 ---
 
@@ -32,7 +38,7 @@ The sidebar menu provides the following features:
 
 ### Data view
 
-What you see under your dashboard title is the actual data. The top three tiles display key metrics and are fully customizable. To change the displayed metric, click **Customize metric**.
+What you see under your dashboard title is the *Data View*. The top three tiles display key metrics and are fully customizable. To change the displayed metric, click **Customize metric**.
 
 ![Key metrics](/key_metrics.png)
 
@@ -41,7 +47,7 @@ Below the metrics are your data visualizations. StreamData allows you to use thr
 ![Visualizations](/visualizations.png)
 
 You can manage the visualizations in the following ways:
-- To view a visualization, click its tile to open it in a new window.
+- To view a visualization, click its tile to open it in a larger view.
 - To change the visualization type, click **Change**. 
 - To remove a visualization, click **Remove**.
 - To add a new visualization type, click the **Plus** sign on an empty tile.

@@ -38,7 +38,7 @@ export default function MyCarousel() {
       </div>
       <div class="tile">
         <img src="/example-docs/graph-20.png" alt="Area chart" style={{ width: '500px'}}/>
-        <p class ="desc"><span class ="emp">Area chart</span>: Displays trends over time similarly to a line chart but with the area below the line and the x-axis colored for emphasis.</p>
+        <p class ="desc"><span class ="emp">Area chart</span>: Displays trends over time similarly to a line chart but with the area below the lines colored for emphasis.</p>
       </div>
     </Slider>
     </div>

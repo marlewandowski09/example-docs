@@ -9,7 +9,7 @@ With StreamData, you can share:
 
 ## Steps to share an entire dashboard
 1. Select **Your Dashboards** from the navigation bar.
-2. Choose the desired dashboard from the list
+2. Choose the desired dashboard from the list.
 3. Select **Share** from the sidebar menu.
 4. Click **Dashboard**.
 
@@ -26,7 +26,7 @@ The sharing options are described in the table below:
 | People with link can | Choose whether people you share the link with can only **View** or also **Modify** the dashboard. |
 | Password             | Optionally set a password that will be required to access the dashboard. |
 | Link                 | **Generate** a shareable link to the dashboard. |
-| Email                | Enter one or more email addresses (seperated by semicolons `;` without spaces) to send the link. |
+| Email                | Enter one or more email addresses (separated by semicolons `;` without spaces) to send the link. |
 
 6. Click **Done**.
 
@@ -46,7 +46,7 @@ You can create multiple links for a single dashboard. For example, one link that
 
 ## Steps to share visualizations
 1. Select **Your Dashboards** from the navigation bar.
-2. Choose the desired dashboard from the list
+2. Choose the desired dashboard from the list.
 3. Select **Share** from the sidebar menu.
 4. Click **Visualization**.
    
@@ -58,7 +58,7 @@ You can create multiple links for a single dashboard. For example, one link that
 
 :::info
 
-At this point, you can **Change** or **Modify** the visualizations. Note that this will affect your dashboard view.
+At this point, you can **Change** or **Modify** the visualizations. Note that this will affect your *Data View*.
 
 :::
 
@@ -71,9 +71,9 @@ The sharing options are described in the table below:
 | Option                 | Description |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Export                 | Download the visualizations in one of the supported formats (PDF, JPEG, PNG, SVG, or HTML). |
-| Embed code             | **Generate** HTML code that can be used to embed the visualizations on your website . |
+| Embed code             | **Generate** HTML code that can be used to embed the visualizations on your website. |
 | Link                   | **Generate** a shareable link to the visualizations. |
-| Email                  | Enter one or more email addresses (seperated by semicolons `;` without spaces) to send the link. |
+| Email                  | Enter one or more email addresses (separated by semicolons `;` without spaces) to send the link. |
 
 7. Click **Done**.
 

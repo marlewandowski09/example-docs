@@ -16,18 +16,18 @@ export const Highlight = ({children, color}) => (
 
 # Configuring Database Source
 
-StreamData connect directly to an SQL database. Currently, the supported databases are *Oracle* and *MySQL*.
+StreamData can connect directly to an SQL database. Currently, the supported databases are *Oracle* and *MySQL*.
 
 ![Database configuration window](/connect-sql.png)
 
-## Steps to add a database source.
-1. Choose **MySQL** or **Oracle**.
+## Steps to add a database source
+1. Select either **MySQL** or **Oracle**.
 2. Fill the required fields:
    
 | Field           | Description |
 | --------------- | ----------- |
 | **Host**        | The address of the database server |
-| **Port**        | The default ports are `3306` for MySQL and `1521` for Oracle. |
+| **Port**        | Default ports: `3306` for MySQL and `1521` for Oracle |
 | **Name**        | The name of your database |
 | **Username**    | Your database username |
 | **Password**    | Your database password |
@@ -42,8 +42,8 @@ When the connection to the database is established successfully, the **Connectio
 
 :::warning
 
-If the **Connection status** field displays <Highlight color="#cc0000">Failed</Highlight>, verify that all fields are filled in correctly and the database is reachable from your network.
+If the **Connection status** field shows <Highlight color="#cc0000">Failed</Highlight>, verify that all fields are filled in correctly and the database is reachable from your network.
 
 :::   
 
-4. Click **Save** to finalize the setup..
+4. Click **Save** to complete the setup.
