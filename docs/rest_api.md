@@ -23,7 +23,7 @@ The host for StreamData REST API is `api.streamdata.com`.
 | ---------| ------ | --------------------------------------------------------------------------- |
 | `/dashboards`                             | `GET`  | Provides a list of available dashboards. |
 | `/dashboards/{dashboard_id}/share`         | `POST` | Shares a link to a specific dashboard. |
-| `/visualizations`                         | `GET`  | Provides a list of available visualizations |
+| `/visualizations`                         | `GET`  | Provides a list of available visualizations. |
 | `/visualizations/{visualization_id}/share` | `POST` | Shares a link to a specific visualization. |
 
 ### Example: Retrieve a list of dashboards
