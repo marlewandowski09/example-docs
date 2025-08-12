@@ -21,21 +21,21 @@ StreamData is a fictional SaaS tool designed to fetch and visualize data from mu
 
 ## StreamData use cases
 <Tabs>
-  <TabItem value="sales_marketing" label="Sales and marketing" default>
+  <TabItem value="sales_marketing" label="Sales and marketing">
     Track KPIs, sales numbers, and revenue.
-     <img src="/example-docs/sales.svg" alt="Sales and Marketing" />
+     <img src="/example-docs/sales.svg" alt="Sales and Marketing" width="50%"/>
   </TabItem>
-  <TabItem value="web_analytics" label="Web analytics">
+  <TabItem value="web_analytics" label="Web analytics" width="50%">
     Monitor webpage traffic and conversions.
-     <img src="/example-docs/web.svg" alt="Web Analytics" />
+     <img src="/example-docs/web.svg" alt="Web Analytics" width="50%" />
   </TabItem>
   <TabItem value="finance" label="Finance">
     Analyze your budget, expenses, and forecasts.
-     <img src="/example-docs/finance.svg" alt="Finance" />
+     <img src="/example-docs/finance.svg" alt="Finance" width="50%"/>
   </TabItem>
   <TabItem value="custom" label="Custom scenarios">
     Use StreamData in any situation that requires a graphical representation of raw data.
-     <img src="/example-docs/custom.svg" alt="Custom Scenarios" />
+     <img src="/example-docs/custom.svg" alt="Custom Scenarios" width="50%"/>
   </TabItem>
 </Tabs>
 
