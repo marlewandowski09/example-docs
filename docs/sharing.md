@@ -38,7 +38,7 @@ If you choose to protect the link to your dashboard with a password, make sure t
 
 :::tip
 
-You can create multiple links to a single dashboard. For example, one link for editing and another for viewing only.
+You can create multiple links for a single dashboard. For example, one link that allows editing and another that allows view-only access.
 
 :::
 
